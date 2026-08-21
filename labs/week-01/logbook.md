@@ -20,7 +20,8 @@ me where to start when you bring it to studio.
 **What I did:**
 I asked the kernel to identify itself, counted the command system's calls, asked for the C compiler, and opened a manual page from section 2.
 **Output or seal:**
-```918F632F
+```
+918F632F
 ```
 **What it means:**
 My VM and work space is working correctly.
@@ -28,7 +29,8 @@ My VM and work space is working correctly.
 **What I did:**
 I surveyed the bench, checked all empty rooms, opened the inbox, asked what the items where before opening them, read the noticeboard, examined the fragment, and measured it.
 **Output or seal:**
-```EE2D2911
+```
+EE2D2911
 ```
 **What it means:**
 I navigated through the different work spaces and oriented myself with what may become important later.
@@ -36,7 +38,8 @@ I navigated through the different work spaces and oriented myself with what may 
 **What I did:**
 Investigated the numerous manuals I have access to.
 **Output or seal:**
-```22664701 write(1) sends a message to another user, write(2) writes to a file descriptor. Crontab is a program used to manipulate the tables used to drive the cron daemon in Vixie Cron.
+```
+22664701 write(1) sends a message to another user, write(2) writes to a file descriptor. Crontab is a program used to manipulate the tables used to drive the cron daemon in Vixie Cron.
 ```
 **What it means:**
 There is an enormous amount of information that explains how certain systems operate.
